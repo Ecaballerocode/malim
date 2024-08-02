@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/malim/static/css/main.03784133.css",
+    "main.js": "/malim/static/js/main.fe310f1a.js",
+    "static/media/LogoBlanco.png": "/malim/static/media/LogoBlanco.7f4ab169cd74d20d4246.png",
+    "index.html": "/malim/index.html",
+    "main.03784133.css.map": "/malim/static/css/main.03784133.css.map",
+    "main.fe310f1a.js.map": "/malim/static/js/main.fe310f1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03784133.css",
+    "static/js/main.fe310f1a.js"
+  ]
+}
